@@ -4,3 +4,14 @@ Trả lời cho câu hỏi?
 - PYTHON LÀ GÌ VÀ TẠI SAO CHÚNG TA LẠI CHỌN PYTHON?
 - CÁC LƯU Ý KHI LÀM VỚI PYTHON
 - CÁC KỸ NĂNG CẦN BIẾT KHI LÀM VỚI PYTHON#Python
+#Để chạy file python
+- Cần cài đặt python
+- Cần cài đặt IDE
+- Cần cài đặt extension
+- Cần cài đặt package
+#Chạy python
+- Trên windows
+> python file.py
+- Trên linux
+> python3 file.py
+#IDE
