@@ -55,3 +55,9 @@ Dưới đây là những kỹ năng cơ bản bạn cần có để bắt đầ
 Mở Command Prompt hoặc PowerShell và gõ:
 ```bash
 python ten_file.py
+```
+### Trên Linux / macOS
+Mở Terminal và gõ:
+```bash
+python3 ten_file.py
+```
